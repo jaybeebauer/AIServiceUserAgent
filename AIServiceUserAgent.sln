@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIServiceUserAgent", "AIServiceUserAgent\AIServiceUserAgent.csproj", "{F065198A-5334-457A-8A40-1E6FB798298B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F065198A-5334-457A-8A40-1E6FB798298B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F065198A-5334-457A-8A40-1E6FB798298B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F065198A-5334-457A-8A40-1E6FB798298B}.Debug|x64.ActiveCfg = Debug|x64
+		{F065198A-5334-457A-8A40-1E6FB798298B}.Debug|x64.Build.0 = Debug|x64
+		{F065198A-5334-457A-8A40-1E6FB798298B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F065198A-5334-457A-8A40-1E6FB798298B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F065198A-5334-457A-8A40-1E6FB798298B}.Release|x64.ActiveCfg = Release|x64
+		{F065198A-5334-457A-8A40-1E6FB798298B}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E179FA3-CB4A-42E2-8CEC-0F0B7A743DB6}
+	EndGlobalSection
+EndGlobal
