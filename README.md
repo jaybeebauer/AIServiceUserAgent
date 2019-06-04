@@ -1,7 +1,9 @@
 # AIServiceUserAgent
 
 Process or high level steps to take in this example
+###Achieved
 * GDI32 and USER32 stream screen images to Microsoft Azure Custom Vision to check images against object detection machine learning model
+###Todo
 * Inform user error found
 * Tesseract to run OCR over the image if found to contain and error
 * Submit ticket to system with extract from Tesseract
